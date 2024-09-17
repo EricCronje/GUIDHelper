@@ -1,0 +1,6 @@
+sha256sum /c/_FLAP03/GBZZBEBJ/Working/utilities/Pagination/bin/Debug/net8.0/Pagination.dll
+sha256sum /c/_FLAP03/GBZZBEBJ/Working/utilities/PaginationConsoleWithListUtility/bin/Debug/net8.0/PaginationConsoleUtility.dll
+sha256sum /c/_FLAP03/GBZZBEBJ/Working/utilities/TestPagination/bin/Debug/net8.0/TestPagination.dll
+sha256sum /c/_FLAP03/GBZZBEBJ/Working/utilities/PaginationConsoleWithList/bin/Debug/net8.0/PaginationIntegrationConsole.dll
+sha256sum /c/_FLAP03/GBZZBEBJ/Working/utilities/TestProjectPaginationConsoleWithList/bin/Debug/net8.0/TestPaginationIntegrationConsole.dll
+sha256sum /c/_FLAP03/GBZZBEBJ/Working/utilities/ListPagination/bin/Debug/net8.0/PaginationConsole.dll
