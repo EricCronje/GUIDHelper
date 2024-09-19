@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPaginationIntegrationCo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaginationConsoleUtility", "..\PaginationConsoleWithListUtility\PaginationConsoleUtility.csproj", "{AD2AD09B-B467-4BBE-AB2A-D7111CCC848F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaginationCUtility", "..\PaginationCUtility\PaginationCUtility.csproj", "{9A61D997-1F09-43E3-8A2D-C4A51188DD52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaginationCUtility", "..\PaginationCUtility\PaginationCUtility.csproj", "{9A61D997-1F09-43E3-8A2D-C4A51188DD52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPaginationIntegrationCUtility", "..\TestPaginationIntegrationCUtility\TestPaginationIntegrationCUtility.csproj", "{82BE8B72-EF76-4D53-9751-215AF361E582}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{9A61D997-1F09-43E3-8A2D-C4A51188DD52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A61D997-1F09-43E3-8A2D-C4A51188DD52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A61D997-1F09-43E3-8A2D-C4A51188DD52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82BE8B72-EF76-4D53-9751-215AF361E582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82BE8B72-EF76-4D53-9751-215AF361E582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82BE8B72-EF76-4D53-9751-215AF361E582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82BE8B72-EF76-4D53-9751-215AF361E582}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
